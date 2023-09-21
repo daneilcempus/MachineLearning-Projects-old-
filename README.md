@@ -1,3 +1,6 @@
+<h1>Esses foram meus primeiros projetos de aprendizado de máquina, embora careçam de boas práticas, optei por mantê-los no meu GitHub como um registro do meu início na área. Eles foram desenvolvidos seguindo o guia de um canal no YouTube chamado Siddhardhan, que desempenhou um papel fundamental no meu desenvolvimento na área de ciência de dados e no meu entendimento prático de aprendizado de máquina.</h1>
+
+
 <table>
   <thead>
     <tr>
