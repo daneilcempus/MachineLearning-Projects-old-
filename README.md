@@ -52,7 +52,7 @@
       <td>heart disease</td>
       <td>Predição de doença cardiaca</td>
       <td>TensorFlow, Pandas, Sklearn, Numpy, Matplotlib, Seaborn, LGBM </td>
-      <td>acc 90, f1-score 0.90</td>
+      <td>acc 90%, f1-score 0.90</td>
     </tr>
     
   </tbody>
@@ -73,6 +73,76 @@
       <td>Predição de emprestimo</td>
       <td>SVM, Pandas, Sklearn, Numpy, Seaborn, LGBM </td>
       <td>acc 85% </td>
+    </tr>
+    
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td>medical cust insurance</td>
+      <td>Previsão de custo de plano de saúde</td>
+      <td> Pandas, Sklearn, Numpy, Seaborn, LGBM </td>
+      <td>r2 0,84 </td>
+    </tr>
+    
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td>movie recomendation</td>
+      <td>Predição de filmes recomendados </td>
+      <td> Pandas, Sklearn, Numpy, difflib</td>
+      <td></td>
+    </tr>
+    
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td>parkinsons disease</td>
+      <td>Predição de doença de Parkinsons</td>
+      <td>Pandas, Sklearn, Numpy, Seaborn, LGBM, SVM </td>
+      <td>acc 100% </td>
+    </tr>
+    
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td>email spam</td>
+      <td>Predição de spam de email</td>
+      <td>Pandas, Sklearn, Numpy, Seaborn, LGBM </td>
+      <td>acc 97.4% </td>
+    </tr>
+    
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td>submarine radar</td>
+      <td>Detecção de bombas submarinas</td>
+      <td>Pandas, Sklearn, Numpy, LGBM </td>
+      <td>acc 92.4% </td>
+    </tr>
+    
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td>titanic survives</td>
+      <td>Previsão de sobreviventes do titanic</td>
+      <td>Pandas, Sklearn, Numpy, LGBM </td>
+      <td>acc 85,4% </td>
+    </tr>
+    
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td>wine quality</td>
+      <td>Predição da qualidade de vinhos</td>
+      <td>Pandas, Sklearn, Numpy, Seaborn, LGBM </td>
+      <td>acc 92,81% </td>
     </tr>
     
   </tbody>
