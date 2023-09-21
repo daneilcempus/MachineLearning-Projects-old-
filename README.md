@@ -1,10 +1,10 @@
 <table>
   <thead>
     <tr>
-      <th>Nome do Projeto</th>
-      <th>Objetivo</th>
-      <th>Bibliotecas Utilizadas</th>
-      <th>Precisão</th>
+      <th>breast cancer</th>
+      <th>Objetivo: Predição de câncer de mama</th>
+      <th>Tensorflow, Pandas, Sklearn, Numpy, Matplotlib </th>
+      <th>Precisão: 98.2%</th>
     </tr>
   </thead>
   <tbody>
