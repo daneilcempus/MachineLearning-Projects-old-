@@ -12,7 +12,7 @@
       <td>breast cancer</td>
       <td>Predição de câncer de mama</td>
       <td>Tensorflow, Pandas, Sklearn, Numpy, Matplotlib </td>
-      <td>98.2%</td>
+      <td>acc 98.2%</td>
     </tr>
     
   </tbody>
